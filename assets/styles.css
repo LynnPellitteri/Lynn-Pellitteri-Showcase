@@ -1,0 +1,31 @@
+ . {
+  margin: 100px;
+  background-color:
+  border: 500px;
+  padding:left: 200%;
+
+ }
+
+
+ .container {
+  display:flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: right;
+  margin-left: 300px;
+  width: 500px;
+  height: 200px;
+
+}
+
+
+
+
+
+footer {
+  justify-content: center;
+  display: flex;
+  flex: wrap;
+  background-color: lightcoral;
+}
